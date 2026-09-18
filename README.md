@@ -42,7 +42,7 @@ AI-powered project that converts natural language questions into SQL queries usi
 Projects focused on data cleaning, exploratory data analysis, visualization, and extracting meaningful insights.
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/natali-sonawane-a84552369/)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/natali-sonawane-a84552369/)
 - 🐙 GitHub: [My GitHub](https://github.com/Natali07-max/Natali07-max/)
 - 📧 Email: natalisonwane@gmail.com
 ## 📈 GitHub Stats
